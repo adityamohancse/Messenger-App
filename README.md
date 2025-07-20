@@ -1,26 +1,12 @@
-Excellent idea! Adding a live demo link and visual previews is one of the best ways to make a GitHub project look professional and genuine. It allows people to see your work instantly without having to set it up themselves.
-
-I will update the README for the "Messenger App" to include a dedicated preview section. You will just need to replace the placeholder links with your own.
-
-Here is the updated, attractive README:
+Of course. I've removed the photo preview section to make the README cleaner. Here is the updated version.
 
 # 🚀 Messenger App - Real-Time MERN Stack Chat App
 
 A full-stack, real-time chat application built with MongoDB, Express, React, and Node.js. Features include live messaging, user authentication, and online status indicators.
 
-## ✨ **Live Demo & Preview**
+[**➥ Live Demo Link**](https://quick-chat-client-mu.vercel.app/login) 
 
-[**➥ Live Demo Link**](https://your-messenger-app.vercel.app) *(Replace with your Vercel deployment link)*
-
-| Login Page                                                                                             | Chat Interface                                                                                             |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-|                    |    |
-| **Real-Time Conversation**                                                                             | **Responsive Mobile View**                                                                                 |
-|  |  |
-
-> **Pro Tip:** To get links for your screenshots, simply drag and drop the image files into a new issue on your GitHub repository. GitHub will create a markdown link for the image, which you can then copy and paste here.
-
-### **Key Features**
+### ✨ **Key Features**
 *   **💬 Real-Time Messaging**: Instant chat powered by Socket.IO.
 *   **🔐 User Authentication**: Secure sign-up and login functionality.
 *   **🖼️ Cloud Media Storage**: Avatar uploads handled by Cloudinary.
