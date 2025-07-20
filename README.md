@@ -1,5 +1,3 @@
-Of course. I've removed the photo preview section to make the README cleaner. Here is the updated version.
-
 # 🚀 Messenger App - Real-Time MERN Stack Chat App
 
 A full-stack, real-time chat application built with MongoDB, Express, React, and Node.js. Features include live messaging, user authentication, and online status indicators.
