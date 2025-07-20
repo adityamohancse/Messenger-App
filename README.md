@@ -3,6 +3,8 @@
 A full-stack, real-time chat application built with MongoDB, Express, React, and Node.js. Features include live messaging, user authentication, and online status indicators.
 
 [**➥ Live Demo Link**](https://quick-chat-client-mu.vercel.app/login) 
+<img width="1293" height="758" alt="Screenshot 2025-07-20 200744" src="https://github.com/user-attachments/assets/a0e6c522-13ab-48d2-b15f-5d85f98c85e8" />
+
 <img width="1526" height="882" alt="Screenshot 2025-07-20 200815" src="https://github.com/user-attachments/assets/8ed4c703-b393-45be-b94f-c37a0e315c5a" />
 
 
