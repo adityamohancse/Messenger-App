@@ -8,10 +8,6 @@ A full-stack, real-time chat application built with MongoDB, Express, React, and
 
 [**➥ Live Demo Link**](https://quick-chat-client-mu.vercel.app/login)
 
-### ✨ **App Preview**
-
-<img src="https://github.com/user-attachments/assets/a0e6c522-13ab-48d2-b15f-5d85f98c85e8" alt="Login Page">
-<img src="https://github.com/user-attachments/assets/8ed4c703-b393-45be-b94f-c37a0e315c5a" alt="Chat View">
 
 ### **Key Features**
 *   **💬 Real-Time Messaging**: Instant chat powered by Socket.IO.
@@ -73,3 +69,7 @@ Deploy your app to the web for free.
     *   Set the **Root Directory** to `client`.
     *   Add one environment variable: `VITE_BACKEND_URL` with the live server URL as its value.
     *   Deploy
+
+### **App Preview**
+<img src="https://github.com/user-attachments/assets/a0e6c522-13ab-48d2-b15f-5d85f98c85e8" alt="Login Page">
+<img src="https://github.com/user-attachments/assets/8ed4c703-b393-45be-b94f-c37a0e315c5a" alt="Chat View">
