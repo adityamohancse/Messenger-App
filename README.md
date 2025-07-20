@@ -1,7 +1,3 @@
-Got it. You want the preview section to clearly label the first image as the "Login Page" and the second as the "Chat Preview." That's a great way to guide visitors through the user experience.
-
-Here is the updated README with the correctly labeled previews presented side-by-side.
-
 # 🚀 Messenger App - Real-Time MERN Stack Chat App
 
 A full-stack, real-time chat application built with MongoDB, Express, React, and Node.js. Features include live messaging, user authentication, and online status indicators.
@@ -70,6 +66,6 @@ Deploy your app to the web for free.
     *   Add one environment variable: `VITE_BACKEND_URL` with the live server URL as its value.
     *   Deploy
 
-### **App Preview**
+### ** 📲 App Preview**
 <img src="https://github.com/user-attachments/assets/a0e6c522-13ab-48d2-b15f-5d85f98c85e8" alt="Login Page">
 <img src="https://github.com/user-attachments/assets/8ed4c703-b393-45be-b94f-c37a0e315c5a" alt="Chat View">
