@@ -1,14 +1,7 @@
-Of course! Here is a revised version of the README file with a more personal tone, making it sound like you created it.
-
 # My Project
 
 I'm excited to share this project that I built! To get it up and running on your own machine, just follow the steps below.
 
-### 🎥 **Video Walkthrough**
-
-I created a video tutorial to guide you through the setup process. You can watch it here (link not provided in the original text).
-
-[Watch the Video Tutorial](https://example.com)
 
 ### ✅ **Tech You'll Need**
 
@@ -70,6 +63,4 @@ This project is split into two parts: the `server` (backend) and the `client` (f
         ```
     *   And you're all set! The project should now be running in your browser.
 
-### ✨ **Check Out My Other Work**
 
-If you enjoyed this, you can find more of my projects and source code over at [GreatStack](https://greatstack.dev/source-code).
