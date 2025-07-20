@@ -67,4 +67,4 @@ Deploy your app to the web for free.
         *   **Value**: The live server URL you copied.
     *   Deploy!
 
-You're all set! Your QuickChat application is now live.
+You're all set! Your Messenger application is now live.
